@@ -1,0 +1,14 @@
+{
+    "appointments": [
+      { "id": 1, "petName": "Buddy", "ownerName": "John Doe", "date": "2025-01-21", "service": "Grooming" },
+      { "id": 2, "petName": "Milo", "ownerName": "Jane Smith", "date": "2025-01-22", "service": "Vaccination" }
+    ],
+    "orders": [
+      { "id": 1, "customerName": "Alice", "total": 120.5, "status": "Completed" },
+      { "id": 2, "customerName": "Bob", "total": 75.0, "status": "Pending" }
+    ],
+    "customers": [
+      { "id": 1, "name": "Alice", "email": "alice@example.com", "phone": "1234567890", "totalOrders": 5 },
+      { "id": 2, "name": "Bob", "email": "bob@example.com", "phone": "9876543210", "totalOrders": 3 }
+    ]
+  }
